@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\bin\Debug\net8.0\forLoopRing.exe
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\bin\Debug\net8.0\forLoopRing.deps.json
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\bin\Debug\net8.0\forLoopRing.runtimeconfig.json
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\bin\Debug\net8.0\forLoopRing.dll
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\bin\Debug\net8.0\forLoopRing.pdb
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\obj\Debug\net8.0\forLoopRing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\obj\Debug\net8.0\forLoopRing.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\obj\Debug\net8.0\forLoopRing.AssemblyInfo.cs
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\obj\Debug\net8.0\forLoopRing.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\obj\Debug\net8.0\forLoopRing.dll
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\obj\Debug\net8.0\refint\forLoopRing.dll
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\obj\Debug\net8.0\forLoopRing.pdb
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\obj\Debug\net8.0\forLoopRing.genruntimeconfig.cache
+C:\Users\opilane\source\repos\forLoopRing\forLoopRing\obj\Debug\net8.0\ref\forLoopRing.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "forLoopRing/1.0.0": {
+        "runtime": {
+          "forLoopRing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "forLoopRing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
