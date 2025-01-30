@@ -1,36 +1,26 @@
-﻿namespace ConsoleApp1
+﻿namespace numbriteKolmnurk
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sisesta Vokaal");
-            char vokaal = Convert.ToChar(Console.ReadLine());
+            Console.WriteLine("Sisestage number");
 
-           
-            switch (vokaal)
+            int rows = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i <= rows; i++)
             {
-                case 'a':
-                    Console.WriteLine("Sisestasid a");
-                    break;
-                case 'e':
-                    Console.WriteLine("Sisestasid e");
-                    break;
-                case 'i':
-                    Console.WriteLine("Sisestasid i");
-                    break;
-                case 'o':
-                    Console.WriteLine("Sisestasid o");
-                    break;
-                case 'u':
-                    Console.WriteLine("Sisestasid u");
-                    break;
-                default:
-                    Console.WriteLine("Ei sisestanud vokaali");
-                    break;
-            }
+                for (int j = 1; j < rows; j++)
+                {
+                    Console.Write(" ");
+                }
+                for (int j = 1; j <= i; j++)
+                {
+                    Console.Write(j + " ");
+                }
 
+                Console.WriteLine();
+            }
         }
     }
-    }
-
+}
