@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\bin\Debug\net8.0\Tunnitoo31jan.exe
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\bin\Debug\net8.0\Tunnitoo31jan.deps.json
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\bin\Debug\net8.0\Tunnitoo31jan.runtimeconfig.json
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\bin\Debug\net8.0\Tunnitoo31jan.dll
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\bin\Debug\net8.0\Tunnitoo31jan.pdb
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\obj\Debug\net8.0\Tunnitoo31jan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\obj\Debug\net8.0\Tunnitoo31jan.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\obj\Debug\net8.0\Tunnitoo31jan.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\obj\Debug\net8.0\Tunnitoo31jan.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\obj\Debug\net8.0\Tunnitoo31jan.dll
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\obj\Debug\net8.0\refint\Tunnitoo31jan.dll
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\obj\Debug\net8.0\Tunnitoo31jan.pdb
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\obj\Debug\net8.0\Tunnitoo31jan.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Tunnitoo31jan\Tunnitoo31jan\obj\Debug\net8.0\ref\Tunnitoo31jan.dll
