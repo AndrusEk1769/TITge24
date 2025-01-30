@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\bin\Debug\net8.0\PikkuseKontroll.exe
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\bin\Debug\net8.0\PikkuseKontroll.deps.json
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\bin\Debug\net8.0\PikkuseKontroll.runtimeconfig.json
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\bin\Debug\net8.0\PikkuseKontroll.dll
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\bin\Debug\net8.0\PikkuseKontroll.pdb
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\obj\Debug\net8.0\PikkuseKontroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\obj\Debug\net8.0\PikkuseKontroll.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\obj\Debug\net8.0\PikkuseKontroll.AssemblyInfo.cs
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\obj\Debug\net8.0\PikkuseKontroll.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\obj\Debug\net8.0\PikkuseKontroll.dll
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\obj\Debug\net8.0\refint\PikkuseKontroll.dll
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\obj\Debug\net8.0\PikkuseKontroll.pdb
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\obj\Debug\net8.0\PikkuseKontroll.genruntimeconfig.cache
+C:\Users\opilane\source\repos\PikkuseKontroll\PikkuseKontroll\obj\Debug\net8.0\ref\PikkuseKontroll.dll
