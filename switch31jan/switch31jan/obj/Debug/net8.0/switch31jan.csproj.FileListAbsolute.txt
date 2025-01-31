@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\switch31jan\switch31jan\bin\Debug\net8.0\switch31jan.exe
+C:\Users\opilane\source\repos\switch31jan\switch31jan\bin\Debug\net8.0\switch31jan.deps.json
+C:\Users\opilane\source\repos\switch31jan\switch31jan\bin\Debug\net8.0\switch31jan.runtimeconfig.json
+C:\Users\opilane\source\repos\switch31jan\switch31jan\bin\Debug\net8.0\switch31jan.dll
+C:\Users\opilane\source\repos\switch31jan\switch31jan\bin\Debug\net8.0\switch31jan.pdb
+C:\Users\opilane\source\repos\switch31jan\switch31jan\obj\Debug\net8.0\switch31jan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\switch31jan\switch31jan\obj\Debug\net8.0\switch31jan.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\switch31jan\switch31jan\obj\Debug\net8.0\switch31jan.AssemblyInfo.cs
+C:\Users\opilane\source\repos\switch31jan\switch31jan\obj\Debug\net8.0\switch31jan.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\switch31jan\switch31jan\obj\Debug\net8.0\switch31jan.dll
+C:\Users\opilane\source\repos\switch31jan\switch31jan\obj\Debug\net8.0\refint\switch31jan.dll
+C:\Users\opilane\source\repos\switch31jan\switch31jan\obj\Debug\net8.0\switch31jan.pdb
+C:\Users\opilane\source\repos\switch31jan\switch31jan\obj\Debug\net8.0\switch31jan.genruntimeconfig.cache
+C:\Users\opilane\source\repos\switch31jan\switch31jan\obj\Debug\net8.0\ref\switch31jan.dll
