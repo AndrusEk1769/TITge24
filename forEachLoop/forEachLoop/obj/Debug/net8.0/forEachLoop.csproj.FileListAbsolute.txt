@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\bin\Debug\net8.0\forEachLoop.exe
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\bin\Debug\net8.0\forEachLoop.deps.json
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\bin\Debug\net8.0\forEachLoop.runtimeconfig.json
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\bin\Debug\net8.0\forEachLoop.dll
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\bin\Debug\net8.0\forEachLoop.pdb
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.AssemblyInfo.cs
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.dll
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\obj\Debug\net8.0\refint\forEachLoop.dll
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.pdb
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.genruntimeconfig.cache
+C:\Users\opilane\source\repos\forEachLoop\forEachLoop\obj\Debug\net8.0\ref\forEachLoop.dll
