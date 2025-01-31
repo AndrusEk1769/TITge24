@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\bin\Debug\net8.0\forEachSorting.exe
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\bin\Debug\net8.0\forEachSorting.deps.json
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\bin\Debug\net8.0\forEachSorting.runtimeconfig.json
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\bin\Debug\net8.0\forEachSorting.dll
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\bin\Debug\net8.0\forEachSorting.pdb
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\obj\Debug\net8.0\forEachSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\obj\Debug\net8.0\forEachSorting.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\obj\Debug\net8.0\forEachSorting.AssemblyInfo.cs
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\obj\Debug\net8.0\forEachSorting.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\obj\Debug\net8.0\forEachSorting.dll
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\obj\Debug\net8.0\refint\forEachSorting.dll
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\obj\Debug\net8.0\forEachSorting.pdb
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\obj\Debug\net8.0\forEachSorting.genruntimeconfig.cache
+C:\Users\opilane\source\repos\forEachSorting\forEachSorting\obj\Debug\net8.0\ref\forEachSorting.dll
