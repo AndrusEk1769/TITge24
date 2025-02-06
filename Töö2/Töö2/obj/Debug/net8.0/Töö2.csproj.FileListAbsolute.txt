@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\Töö2\Töö2\bin\Debug\net8.0\Töö2.exe
+C:\Users\opilane\source\repos\Töö2\Töö2\bin\Debug\net8.0\Töö2.deps.json
+C:\Users\opilane\source\repos\Töö2\Töö2\bin\Debug\net8.0\Töö2.runtimeconfig.json
+C:\Users\opilane\source\repos\Töö2\Töö2\bin\Debug\net8.0\Töö2.dll
+C:\Users\opilane\source\repos\Töö2\Töö2\bin\Debug\net8.0\Töö2.pdb
+C:\Users\opilane\source\repos\Töö2\Töö2\obj\Debug\net8.0\Töö2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Töö2\Töö2\obj\Debug\net8.0\Töö2.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Töö2\Töö2\obj\Debug\net8.0\Töö2.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Töö2\Töö2\obj\Debug\net8.0\Töö2.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Töö2\Töö2\obj\Debug\net8.0\Töö2.dll
+C:\Users\opilane\source\repos\Töö2\Töö2\obj\Debug\net8.0\refint\Töö2.dll
+C:\Users\opilane\source\repos\Töö2\Töö2\obj\Debug\net8.0\Töö2.pdb
+C:\Users\opilane\source\repos\Töö2\Töö2\obj\Debug\net8.0\Töö2.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Töö2\Töö2\obj\Debug\net8.0\ref\Töö2.dll
