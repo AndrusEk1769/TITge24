@@ -1,28 +1,27 @@
-﻿using System;
+﻿using System.Text.RegularExpressions;
 
-namespace RandomAsterisk
+namespace RegularExpression
 {
     internal class Program
     {
-        static Random random = new Random();
-
-        static void PrintAsterisks(int num)
-        {
-            Console.WriteLine(new string('*', num));
-        }
         static void Main(string[] args)
         {
-            for (int i = 0; i < 30; i++)
-            {
-                int randomNumber = random.Next(1, 20);
-                PrintAsterisks(randomNumber);
-            }
+            Console.WriteLine("Hello, World!");
 
+            string word = "#CD5C5C";
+            string invalidHex = "#GGGDSAD";
 
+            Console.WriteLine("Hex code:" + word);
+            Console.WriteLine("Is Regex:" + RegExTest(word));
 
-
+            Console.WriteLine("Hex code: " + invalidHex);
+            Console.WriteLine("Is Regex: " + RegExTest(invalidHex)); 
         }
 
-
+        public static bool RegExTest(string word)
+        {
+            
+            return Regex.IsMatch(word, @"[#][0-9A-Fa-f]{6}\b");
+        }
     }
 }
